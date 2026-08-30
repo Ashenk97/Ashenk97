@@ -15,12 +15,12 @@
 <tr>
 <td width="62%" valign="top">
 
-- 🏦 **QA Engineer at WealthOS** — I own UI and API quality on a wealth-tech platform
-- 🏢 Before that I raised the bar on **Pearson Lanka** User Engagement
-- 🎓 **ISTQB CTAL-TAE** and **CTFL** — certified to build automation that lasts
-- ⚡ **4+ years** finding the break before production does
-- 🎯 **B.Sc (Hons) IT**, Software Engineering, **SLIIT** — Second Class Upper
-- 🎨 I design **GENKI** and quality-gate it like a release. Craft and quality are the same instinct.
+🏦 **QA Engineer at WealthOS** — I own UI and API quality on a wealth-tech platform<br/>
+🏢 Before that I raised the bar on **Pearson Lanka** User Engagement<br/>
+🎓 **ISTQB CTAL-TAE** and **CTFL** — certified to build automation that lasts<br/>
+⚡ **4+ years** finding the break before production does<br/>
+🎯 **B.Sc (Hons) IT**, Software Engineering, **SLIIT** — Second Class Upper<br/>
+🎨 I design **GENKI** and quality-gate it like a release. Craft and quality are the same instinct.
 
 </td>
 <td width="38%" valign="top" align="center">
