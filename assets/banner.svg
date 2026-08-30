@@ -1,13 +1,37 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1100 200" role="img" aria-labelledby="title">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1100 360" role="img" aria-labelledby="title">
   <title id="title">Ashen Kavinda — Senior Software Quality Assurance Engineer</title>
   <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#0b3a42"/>
-      <stop offset="0.55" stop-color="#0f4a40"/>
-      <stop offset="1" stop-color="#123a2f"/>
+    <linearGradient id="edge" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#3ee0c5" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#3ee0c5" stop-opacity="0.85"/>
+      <stop offset="1" stop-color="#3ee0c5" stop-opacity="0"/>
     </linearGradient>
   </defs>
-  <rect width="1100" height="200" fill="url(#bg)"/>
-  <text x="550" y="88" text-anchor="middle" fill="#ffffff" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="44" font-weight="700">Ashen Kavinda</text>
-  <text x="550" y="132" text-anchor="middle" fill="#cfeee8" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="20">Senior QA Engineer  |  ISTQB CTAL-TAE  |  Playwright</text>
+
+  <rect width="1100" height="360" rx="28" fill="#0c1118"/>
+  <rect x="1" y="1" width="1098" height="358" rx="27" fill="none" stroke="#273246"/>
+  <rect x="40" y="1" width="1020" height="1.5" fill="url(#edge)"/>
+
+  <rect x="514" y="28" width="72" height="72" rx="16" fill="#3ee0c5"/>
+  <text x="550" y="78" text-anchor="middle" fill="#04251f" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="42" font-weight="700">A</text>
+
+  <text x="550" y="132" text-anchor="middle" fill="#8f9cb0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" letter-spacing="3.2">SENIOR SOFTWARE QUALITY ASSURANCE ENGINEER</text>
+  <text x="550" y="180" text-anchor="middle" fill="#eef3f8" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="42" font-weight="700">Ashen Kavinda</text>
+  <text x="550" y="220" text-anchor="middle" fill="#eef3f8" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="18">I lead test automation strategy and build quality systems that keep releases reliable.</text>
+
+  <g font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" font-weight="600">
+    <rect x="176" y="256" width="118" height="36" rx="18" fill="#121924" stroke="#273246"/>
+    <text x="235" y="279" text-anchor="middle" fill="#3ee0c5">4+ years QA</text>
+
+    <rect x="306" y="256" width="148" height="36" rx="18" fill="#121924" stroke="#273246"/>
+    <text x="380" y="279" text-anchor="middle" fill="#3ee0c5">ISTQB CTAL-TAE</text>
+
+    <rect x="466" y="256" width="196" height="36" rx="18" fill="#121924" stroke="#273246"/>
+    <text x="564" y="279" text-anchor="middle" fill="#3ee0c5">Playwright + TypeScript</text>
+
+    <rect x="674" y="256" width="188" height="36" rx="18" fill="#121924" stroke="#273246"/>
+    <text x="768" y="279" text-anchor="middle" fill="#3ee0c5">Pearson+ winner 2023</text>
+  </g>
+
+  <text x="550" y="328" text-anchor="middle" fill="#8f9cb0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14">Sri Lanka  ·  Not seeking roles</text>
 </svg>

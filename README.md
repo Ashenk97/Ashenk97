@@ -2,14 +2,8 @@
   <img src="./assets/banner.svg" alt="Ashen Kavinda — Senior QA Engineer" width="100%" />
 </p>
 
-<p align="center"><b>I lead test automation strategy and build quality systems that keep releases reliable.</b></p>
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Ashenk97&style=flat-square&color=3ee0c5" alt="Profile views" />
-  <img src="https://img.shields.io/badge/Location-Sri%20Lanka-3ee0c5?style=flat-square" alt="Sri Lanka" />
-  <img src="https://img.shields.io/badge/ISTQB-CTAL--TAE-3ee0c5?style=flat-square" alt="ISTQB CTAL-TAE" />
-  <img src="https://img.shields.io/badge/Experience-4%2B%20years-3ee0c5?style=flat-square" alt="4+ years" />
-  <img src="https://img.shields.io/badge/Status-Not%20seeking%20roles-2ea043?style=flat-square" alt="Not seeking roles" />
   <img src="https://img.shields.io/github/followers/Ashenk97?style=flat-square&color=3ee0c5&label=Followers" alt="Followers" />
 </p>
 
@@ -21,12 +15,11 @@
 <tr>
 <td width="62%" valign="top">
 
-- **QA Engineer at WealthOS** — wealth-tech UI and API coverage in **Playwright** and **TypeScript**
+- **QA Engineer at WealthOS** — wealth-tech UI and API coverage
 - Previously **Software Quality Assurance Engineer** at **Pearson Lanka** (User Engagement)
-- **ISTQB CTAL-TAE** (Aug 2026) and **CTFL** (Mar 2025)
-- **4+ years** across manual, exploratory, API, performance, and CI quality gates
+- **ISTQB CTFL** (Mar 2025) · **CTAL-TAE** (Aug 2026)
 - **B.Sc (Hons) IT**, Software Engineering, **SLIIT** — Second Class Upper
-- Also design: **GENKI** streetwear, plus Photoshop, Illustrator, and Figma
+- Design work on **GENKI**, plus Photoshop, Illustrator, and Figma
 
 </td>
 <td width="38%" valign="top" align="center">
