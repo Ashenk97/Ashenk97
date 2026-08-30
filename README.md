@@ -14,7 +14,7 @@
 
 I focus on automation architecture, risk-based coverage, and software that holds up in production. I design Playwright and TypeScript suites, API and performance checks, and CI quality gates. I still go deep on manual and exploratory testing when the risk calls for it.
 
-**QA Engineer at [WealthOS](https://github.com/Ashenk97)** · Kurunegala, Sri Lanka · ISTQB Certified Tester
+**QA Engineer at WealthOS** · Kurunegala, Sri Lanka · ISTQB Certified Tester
 
 <br />
 
