@@ -63,8 +63,8 @@
 ---
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/Ashenk97/Ashenk97@main/assets/languages.png" alt="Top languages" />
-  <img src="https://streak-stats.demolab.com?user=Ashenk97&theme=dark&hide_border=true&ring=3ee0c5&fire=3ee0c5&currStreakLabel=3ee0c5" alt="GitHub streak" />
+  <img src="https://cdn.jsdelivr.net/gh/Ashenk97/Ashenk97@main/assets/languages.png" alt="Top languages" height="150" />
+  <img src="https://streak-stats.demolab.com?user=Ashenk97&theme=dark&hide_border=true&ring=3ee0c5&fire=3ee0c5&currStreakLabel=3ee0c5" alt="GitHub streak" height="150" />
 </p>
 
 ## Contribution Snake
