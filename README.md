@@ -24,7 +24,7 @@
 </td>
 <td width="38%" valign="top" align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Ashenk97&show_icons=true&hide_border=true&hide=stars&title_color=3ee0c5&icon_color=3ee0c5&text_color=eef3f8&bg_color=0d1117" alt="GitHub stats" />
+<img src="./assets/stats.svg" alt="GitHub stats" />
 
 </td>
 </tr>
@@ -62,7 +62,7 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashenk97&layout=compact&hide_border=true&title_color=3ee0c5&text_color=eef3f8&bg_color=0d1117" alt="Top languages" />
+  <img src="./assets/top-langs.svg" alt="Top languages" />
   <img src="https://streak-stats.demolab.com?user=Ashenk97&theme=dark&hide_border=true&ring=3ee0c5&fire=3ee0c5&currStreakLabel=3ee0c5" alt="GitHub streak" />
 </p>
 

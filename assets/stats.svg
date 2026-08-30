@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="360" height="200" viewBox="0 0 360 200" role="img" aria-labelledby="title">
+  <title id="title">Ashen Kavinda GitHub stats</title>
+  <rect width="360" height="200" rx="8" fill="#0d1117"/>
+  <text x="20" y="36" fill="#3ee0c5" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" font-weight="700">Ashen's GitHub Stats</text>
+  <g fill="#eef3f8" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14">
+    <text x="20" y="78">Public repos</text>
+    <text x="330" y="78" text-anchor="end" fill="#3ee0c5">17</text>
+    <text x="20" y="108">Followers</text>
+    <text x="330" y="108" text-anchor="end" fill="#3ee0c5">16</text>
+    <text x="20" y="138">Following</text>
+    <text x="330" y="138" text-anchor="end" fill="#3ee0c5">21</text>
+    <text x="20" y="168">On GitHub since</text>
+    <text x="330" y="168" text-anchor="end" fill="#3ee0c5">2019</text>
+  </g>
+</svg>
