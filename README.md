@@ -3,8 +3,8 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Ashenk97&style=flat-square&color=3ee0c5" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/Ashenk97?style=flat-square&color=3ee0c5&label=Followers" alt="Followers" />
+  <img src="https://komarev.com/ghpvc/?username=Ashenk97&style=flat-square&color=0f766e" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/Ashenk97?style=flat-square&color=0f766e&label=Followers" alt="Followers" />
 </p>
 
 ## About Me
