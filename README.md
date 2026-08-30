@@ -15,16 +15,17 @@
 <tr>
 <td width="62%" valign="top">
 
-- **QA Engineer at WealthOS** — wealth-tech UI and API coverage
-- Previously **Software Quality Assurance Engineer** at **Pearson Lanka** (User Engagement)
-- **ISTQB CTFL** (Mar 2025) · **CTAL-TAE** (Aug 2026)
-- **B.Sc (Hons) IT**, Software Engineering, **SLIIT** — Second Class Upper
-- Design work on **GENKI**, plus Photoshop, Illustrator, and Figma
+- 🏦 **QA Engineer at WealthOS** — I own UI and API quality on a wealth-tech platform
+- 🏢 Before that I raised the bar on **Pearson Lanka** User Engagement
+- 🎓 **ISTQB CTAL-TAE** and **CTFL** — certified to build automation that lasts
+- ⚡ **4+ years** finding the break before production does
+- 🎯 **B.Sc (Hons) IT**, Software Engineering, **SLIIT** — Second Class Upper
+- 🎨 I design **GENKI** and quality-gate it like a release. Craft and quality are the same instinct.
 
 </td>
 <td width="38%" valign="top" align="center">
 
-<img src="https://raw.githubusercontent.com/Ashenk97/Ashenk97/main/assets/stats.png" alt="GitHub stats" />
+<img src="https://cdn.jsdelivr.net/gh/Ashenk97/Ashenk97@main/assets/stats.png" alt="GitHub stats" />
 
 </td>
 </tr>
@@ -62,7 +63,7 @@
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Ashenk97/Ashenk97/main/assets/languages.png" alt="Top languages" />
+  <img src="https://cdn.jsdelivr.net/gh/Ashenk97/Ashenk97@main/assets/languages.png" alt="Top languages" />
   <img src="https://streak-stats.demolab.com?user=Ashenk97&theme=dark&hide_border=true&ring=3ee0c5&fire=3ee0c5&currStreakLabel=3ee0c5" alt="GitHub streak" />
 </p>
 
