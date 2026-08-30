@@ -24,7 +24,7 @@
 </td>
 <td width="38%" valign="top" align="center">
 
-<img src="./assets/stats.svg" alt="GitHub stats" />
+<img src="https://raw.githubusercontent.com/Ashenk97/Ashenk97/main/assets/stats.png" alt="GitHub stats" />
 
 </td>
 </tr>
@@ -62,7 +62,7 @@
 ---
 
 <p align="center">
-  <img src="./assets/top-langs.svg" alt="Top languages" />
+  <img src="https://raw.githubusercontent.com/Ashenk97/Ashenk97/main/assets/languages.png" alt="Top languages" />
   <img src="https://streak-stats.demolab.com?user=Ashenk97&theme=dark&hide_border=true&ring=3ee0c5&fire=3ee0c5&currStreakLabel=3ee0c5" alt="GitHub streak" />
 </p>
 
