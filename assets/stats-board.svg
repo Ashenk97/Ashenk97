@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1100 360" role="img">
+  <defs>
+    <linearGradient id="statsEdge" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#3ee0c5" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#3ee0c5" stop-opacity="1"/>
+      <stop offset="1" stop-color="#3ee0c5" stop-opacity="0"/>
+      <animateTransform attributeName="gradientTransform" type="translate" from="-0.6 0" to="0.6 0" dur="3.2s" repeatCount="indefinite"/>
+    </linearGradient>
+    <linearGradient id="statsScan" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#3ee0c5" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#3ee0c5" stop-opacity="0.14"/>
+      <stop offset="1" stop-color="#3ee0c5" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="statsBar" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#1d6f64"/>
+      <stop offset="1" stop-color="#3ee0c5"/>
+    </linearGradient>
+    <clipPath id="statsFrame">
+      <rect width="1100" height="360" rx="28"/>
+    </clipPath>
+  </defs>
+  <g clip-path="url(#statsFrame)">
+    <rect width="1100" height="360" fill="#0c1118"/>
+    <rect x="0" y="-70" width="1100" height="70" fill="url(#statsScan)">
+      <animate attributeName="y" values="-70;360;-70" dur="10s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+  <rect x="1" y="1" width="1098" height="358" rx="27" fill="none" stroke="#273246"/>
+  <rect x="40" y="1" width="1020" height="2" fill="url(#statsEdge)"/>
+  <circle cx="32" cy="35" r="5" fill="#3ee0c5">
+    <animate attributeName="opacity" values="1;0.2;1" dur="1.4s" repeatCount="indefinite"/>
+  </circle>
+  <text x="46" y="40" fill="#3ee0c5" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" font-weight="700" letter-spacing="1.6">GRAPH - LIVE</text>
+
+  <rect x="24" y="62" width="700" height="274" rx="18" fill="#121924" stroke="#273246"/>
+  <rect x="24" y="62" width="6" height="274" rx="3" fill="#3ee0c5">
+    <animate attributeName="opacity" values="0.45;1;0.45" dur="3s" begin="0s" repeatCount="indefinite"/>
+  </rect>
+
+  <text x="50" y="92" text-anchor="start" fill="#3ee0c5" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="11" font-weight="700">MOST USED LANGUAGES</text>
+
+  <text x="50" y="118" text-anchor="start" fill="#eef3f8" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" font-weight="600">JavaScript</text>
+
+  <text x="700" y="118" text-anchor="end" fill="#3ee0c5" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" font-weight="700">100%</text>
+
+  <rect x="50" y="126" width="650" height="8" rx="4" fill="#0c1118"/>
+  <rect x="50" y="126" width="650" height="8" rx="4" fill="url(#statsBar)">
+    <animate attributeName="opacity" values="0.55;1;0.55" dur="2.8s" begin="0s" repeatCount="indefinite"/>
+  </rect>
+
+  <text x="50" y="168" text-anchor="start" fill="#eef3f8" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" font-weight="600">TypeScript</text>
+
+  <text x="700" y="168" text-anchor="end" fill="#3ee0c5" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" font-weight="700">83%</text>
+
+  <rect x="50" y="176" width="650" height="8" rx="4" fill="#0c1118"/>
+  <rect x="50" y="176" width="540" height="8" rx="4" fill="url(#statsBar)">
+    <animate attributeName="opacity" values="0.55;1;0.55" dur="2.8s" begin="0.3s" repeatCount="indefinite"/>
+  </rect>
+
+  <text x="50" y="218" text-anchor="start" fill="#eef3f8" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" font-weight="600">Dart</text>
+
+  <text x="700" y="218" text-anchor="end" fill="#3ee0c5" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" font-weight="700">33%</text>
+
+  <rect x="50" y="226" width="650" height="8" rx="4" fill="#0c1118"/>
+  <rect x="50" y="226" width="215" height="8" rx="4" fill="url(#statsBar)">
+    <animate attributeName="opacity" values="0.55;1;0.55" dur="2.8s" begin="0.6s" repeatCount="indefinite"/>
+  </rect>
+
+  <text x="50" y="268" text-anchor="start" fill="#eef3f8" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" font-weight="600">Java</text>
+
+  <text x="700" y="268" text-anchor="end" fill="#3ee0c5" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" font-weight="700">17%</text>
+
+  <rect x="50" y="276" width="650" height="8" rx="4" fill="#0c1118"/>
+  <rect x="50" y="276" width="110" height="8" rx="4" fill="url(#statsBar)">
+    <animate attributeName="opacity" values="0.55;1;0.55" dur="2.8s" begin="0.9s" repeatCount="indefinite"/>
+  </rect>
+
+  <rect x="740" y="62" width="336" height="274" rx="18" fill="#121924" stroke="#273246"/>
+  <rect x="740" y="62" width="6" height="274" rx="3" fill="#3ee0c5">
+    <animate attributeName="opacity" values="0.45;1;0.45" dur="3s" begin="0.4s" repeatCount="indefinite"/>
+  </rect>
+
+  <text x="764" y="92" text-anchor="start" fill="#3ee0c5" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="11" font-weight="700">PROFILE</text>
+
+  <text x="764" y="140" text-anchor="start" fill="#8f9cb0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" font-weight="400">Public repos</text>
+
+  <text x="1052" y="140" text-anchor="end" fill="#3ee0c5" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="18" font-weight="700">17</text>
+
+  <text x="764" y="184" text-anchor="start" fill="#8f9cb0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" font-weight="400">Followers</text>
+
+  <text x="1052" y="184" text-anchor="end" fill="#3ee0c5" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="18" font-weight="700">16</text>
+
+  <text x="764" y="228" text-anchor="start" fill="#8f9cb0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" font-weight="400">Following</text>
+
+  <text x="1052" y="228" text-anchor="end" fill="#3ee0c5" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="18" font-weight="700">21</text>
+
+  <text x="764" y="272" text-anchor="start" fill="#8f9cb0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" font-weight="400">On GitHub since</text>
+
+  <text x="1052" y="272" text-anchor="end" fill="#3ee0c5" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="18" font-weight="700">2019</text>
+
+</svg>
