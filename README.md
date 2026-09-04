@@ -21,7 +21,7 @@
 ---
 
 <p align="center">
-  <img src="./assets/about.svg" alt="About Ashen Kavinda — QA Engineer at WealthOS, ISTQB CTAL-TAE, 4+ years" width="100%" />
+  <img src="./assets/about-me.svg" alt="About Ashen Kavinda — QA Engineer at WealthOS, ISTQB CTAL-TAE, 4+ years" width="100%" />
 </p>
 
 ## Tech Stack
