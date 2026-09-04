@@ -9,7 +9,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Ashenk97&style=flat-square&color=0f766e" alt="Profile views" />
   <img src="https://img.shields.io/github/followers/Ashenk97?style=flat-square&color=0f766e&label=Followers" alt="Followers" />
-  <img src="https://img.shields.io/badge/Now-Shipping_Quality_Central-3ee0c5?style=flat-square" alt="Shipping Quality Central" />
+  <img src="https://img.shields.io/badge/Now-Quality_Central-3ee0c5?style=flat-square" alt="Quality Central" />
 </p>
 
 <p align="center">
