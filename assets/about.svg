@@ -1,0 +1,122 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1100 430" role="img" aria-labelledby="title">
+  <title id="title">About Ashen Kavinda</title>
+  <defs>
+    <linearGradient id="edge" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#3ee0c5" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#3ee0c5" stop-opacity="1"/>
+      <stop offset="1" stop-color="#3ee0c5" stop-opacity="0"/>
+      <animateTransform attributeName="gradientTransform" type="translate" from="-0.6 0" to="0.6 0" dur="3.2s" repeatCount="indefinite"/>
+    </linearGradient>
+    <linearGradient id="scan" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#3ee0c5" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#3ee0c5" stop-opacity="0.14"/>
+      <stop offset="1" stop-color="#3ee0c5" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="bar" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#1d6f64"/>
+      <stop offset="1" stop-color="#3ee0c5"/>
+    </linearGradient>
+    <clipPath id="frame">
+      <rect width="1100" height="430" rx="28"/>
+    </clipPath>
+  </defs>
+
+  <g clip-path="url(#frame)">
+    <rect width="1100" height="430" fill="#0c1118"/>
+    <rect x="0" y="-70" width="1100" height="70" fill="url(#scan)">
+      <animate attributeName="y" values="-70;430;-70" dur="10s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+
+  <rect x="1" y="1" width="1098" height="428" rx="27" fill="none" stroke="#273246"/>
+  <rect x="40" y="1" width="1020" height="2" fill="url(#edge)"/>
+
+  <text x="32" y="42" fill="#eef3f8" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="22" font-weight="700">About Me</text>
+  <circle cx="948" cy="35" r="5" fill="#3ee0c5">
+    <animate attributeName="opacity" values="1;0.2;1" dur="1.4s" repeatCount="indefinite"/>
+  </circle>
+  <text x="962" y="40" fill="#3ee0c5" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" font-weight="700" letter-spacing="1.6">STATUS ù ACTIVE</text>
+
+  <!-- WealthOS -->
+  <rect x="24" y="62" width="700" height="92" rx="18" fill="#121924" stroke="#273246"/>
+  <rect x="24" y="62" width="6" height="92" rx="3" fill="#3ee0c5">
+    <animate attributeName="opacity" values="0.45;1;0.45" dur="3s" begin="0s" repeatCount="indefinite"/>
+  </rect>
+  <text x="50" y="92" fill="#3ee0c5" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="11" font-weight="700" letter-spacing="1.8">NOW</text>
+  <text x="50" y="118" fill="#eef3f8" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="20" font-weight="700">QA Engineer at WealthOS</text>
+  <text x="50" y="140" fill="#8f9cb0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13">I own UI and API quality on a wealth-tech platform.</text>
+
+  <!-- Pearson -->
+  <rect x="24" y="166" width="342" height="112" rx="18" fill="#121924" stroke="#273246"/>
+  <rect x="24" y="166" width="6" height="112" rx="3" fill="#3ee0c5">
+    <animate attributeName="opacity" values="0.45;1;0.45" dur="3s" begin="0.4s" repeatCount="indefinite"/>
+  </rect>
+  <text x="48" y="196" fill="#3ee0c5" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="11" font-weight="700" letter-spacing="1.8">PREVIOUSLY</text>
+  <text x="48" y="224" fill="#eef3f8" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" font-weight="700">Pearson Lanka</text>
+  <text x="48" y="248" fill="#8f9cb0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13">Raised the bar on User</text>
+  <text x="48" y="266" fill="#8f9cb0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13">Engagement. Pearson+ winner 2023.</text>
+
+  <!-- ISTQB -->
+  <rect x="382" y="166" width="342" height="112" rx="18" fill="#121924" stroke="#273246"/>
+  <rect x="382" y="166" width="6" height="112" rx="3" fill="#3ee0c5">
+    <animate attributeName="opacity" values="0.45;1;0.45" dur="3s" begin="0.8s" repeatCount="indefinite"/>
+  </rect>
+  <text x="406" y="196" fill="#3ee0c5" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="11" font-weight="700" letter-spacing="1.8">CERTIFIED</text>
+  <text x="406" y="224" fill="#eef3f8" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" font-weight="700">ISTQB CTAL-TAE + CTFL</text>
+  <text x="406" y="248" fill="#8f9cb0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13">Certified to build automation</text>
+  <text x="406" y="266" fill="#8f9cb0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13">that lasts.</text>
+
+  <!-- Education -->
+  <rect x="24" y="290" width="342" height="112" rx="18" fill="#121924" stroke="#273246"/>
+  <rect x="24" y="290" width="6" height="112" rx="3" fill="#3ee0c5">
+    <animate attributeName="opacity" values="0.45;1;0.45" dur="3s" begin="1.2s" repeatCount="indefinite"/>
+  </rect>
+  <text x="48" y="320" fill="#3ee0c5" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="11" font-weight="700" letter-spacing="1.8">EDUCATION</text>
+  <text x="48" y="348" fill="#eef3f8" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" font-weight="700">B.Sc (Hons) IT ù SLIIT</text>
+  <text x="48" y="372" fill="#8f9cb0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13">Software Engineering</text>
+  <text x="48" y="390" fill="#8f9cb0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13">Second Class Upper</text>
+
+  <!-- GENKI -->
+  <rect x="382" y="290" width="342" height="112" rx="18" fill="#121924" stroke="#273246"/>
+  <rect x="382" y="290" width="6" height="112" rx="3" fill="#3ee0c5">
+    <animate attributeName="opacity" values="0.45;1;0.45" dur="3s" begin="1.6s" repeatCount="indefinite"/>
+  </rect>
+  <text x="406" y="320" fill="#3ee0c5" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="11" font-weight="700" letter-spacing="1.8">CRAFT</text>
+  <text x="406" y="348" fill="#eef3f8" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" font-weight="700">I design GENKI</text>
+  <text x="406" y="372" fill="#8f9cb0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13">Quality-gate it like a release.</text>
+  <text x="406" y="390" fill="#8f9cb0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13">Craft and quality are the same instinct.</text>
+
+  <!-- Stats panel -->
+  <rect x="740" y="62" width="336" height="340" rx="18" fill="#121924" stroke="#273246"/>
+  <text x="908" y="96" text-anchor="middle" fill="#8f9cb0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="11" font-weight="700" letter-spacing="2">SIGNAL</text>
+
+  <circle cx="908" cy="168" r="54" fill="none" stroke="#273246" stroke-width="8"/>
+  <circle cx="908" cy="168" r="54" fill="none" stroke="#3ee0c5" stroke-width="8" stroke-linecap="round" stroke-dasharray="254" stroke-dashoffset="64" transform="rotate(-90 908 168)"/>
+  <circle cx="908" cy="168" r="66" fill="none" stroke="#3ee0c5" stroke-width="1.5" stroke-opacity="0.35">
+    <animate attributeName="r" values="60;72;60" dur="2.8s" repeatCount="indefinite"/>
+    <animate attributeName="stroke-opacity" values="0.45;0.08;0.45" dur="2.8s" repeatCount="indefinite"/>
+  </circle>
+  <text x="908" y="164" text-anchor="middle" fill="#eef3f8" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="32" font-weight="700">4+</text>
+  <text x="908" y="186" text-anchor="middle" fill="#3ee0c5" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" font-weight="700" letter-spacing="1.4">YEARS QA</text>
+
+  <text x="764" y="258" fill="#8f9cb0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12">Public repos</text>
+  <text x="1052" y="258" text-anchor="end" fill="#3ee0c5" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" font-weight="700">17</text>
+  <rect x="764" y="266" width="288" height="6" rx="3" fill="#0c1118"/>
+  <rect x="764" y="266" width="196" height="6" rx="3" fill="url(#bar)">
+    <animate attributeName="opacity" values="0.55;1;0.55" dur="2.6s" repeatCount="indefinite"/>
+  </rect>
+
+  <text x="764" y="304" fill="#8f9cb0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12">Followers</text>
+  <text x="1052" y="304" text-anchor="end" fill="#3ee0c5" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" font-weight="700">16</text>
+  <rect x="764" y="312" width="288" height="6" rx="3" fill="#0c1118"/>
+  <rect x="764" y="312" width="184" height="6" rx="3" fill="url(#bar)">
+    <animate attributeName="opacity" values="0.55;1;0.55" dur="2.8s" begin="0.3s" repeatCount="indefinite"/>
+  </rect>
+
+  <text x="764" y="350" fill="#8f9cb0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12">On GitHub since</text>
+  <text x="1052" y="350" text-anchor="end" fill="#3ee0c5" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" font-weight="700">2019</text>
+  <rect x="764" y="358" width="288" height="6" rx="3" fill="#0c1118"/>
+  <rect x="764" y="358" width="240" height="6" rx="3" fill="url(#bar)">
+    <animate attributeName="opacity" values="0.55;1;0.55" dur="3s" begin="0.6s" repeatCount="indefinite"/>
+  </rect>
+</svg>
