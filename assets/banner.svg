@@ -90,10 +90,5 @@
     <text x="768" y="279" text-anchor="middle" fill="#3ee0c5">Pearson+ winner 2023</text>
   </g>
 
-  <g>
-    <circle cx="418" cy="323" r="4.5" fill="#3ee0c5">
-      <animate attributeName="opacity" values="1;0.25;1" dur="1.4s" repeatCount="indefinite"/>
-    </circle>
-    <text x="550" y="328" text-anchor="middle" fill="#8f9cb0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14">Sri Lanka  ·  Quality Central</text>
-  </g>
+  <text x="550" y="328" text-anchor="middle" fill="#8f9cb0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14">Sri Lanka  ·  Not seeking roles</text>
 </svg>
