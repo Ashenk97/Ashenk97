@@ -72,12 +72,6 @@
 ---
 
 <p align="center">
-  <a href="https://quality-central.vercel.app">
-    <img src="./assets/quality-central-card.svg" alt="Quality Central — gamified QA learning hub" width="92%" />
-  </a>
-</p>
-
-<p align="center">
   <a href="https://quality-central.vercel.app"><img src="https://img.shields.io/badge/Live-quality--central.vercel.app-3ee0c5?style=for-the-badge" alt="Quality Central live site" /></a>
   <a href="https://github.com/Ashenk97/quality-central"><img src="https://img.shields.io/badge/Repo-Ashenk97%2Fquality--central-0c1118?style=for-the-badge&logo=github" alt="Quality Central repository" /></a>
 </p>
