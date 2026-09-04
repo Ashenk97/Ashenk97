@@ -71,11 +71,6 @@
 
 ---
 
-<p align="center">
-  <a href="https://quality-central.vercel.app"><img src="https://img.shields.io/badge/Live-quality--central.vercel.app-3ee0c5?style=for-the-badge" alt="Quality Central live site" /></a>
-  <a href="https://github.com/Ashenk97/quality-central"><img src="https://img.shields.io/badge/Repo-Ashenk97%2Fquality--central-0c1118?style=for-the-badge&logo=github" alt="Quality Central repository" /></a>
-</p>
-
 | Project | Description | Technologies |
 | --- | --- | --- |
 | [Quality Central](https://github.com/Ashenk97/quality-central) | Gamified QA career path — lessons, playgrounds, and a buggy sandbox. Hunt bugs. Ship confidence. | ![Next.js](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=nextdotjs&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=black) |
