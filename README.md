@@ -16,49 +16,25 @@
   <img src="./assets/wave.svg" alt="" width="100%" />
 </p>
 
-## About Me
-
----
-
 <p align="center">
   <img src="./assets/about-me.svg" alt="About Ashen Kavinda — QA Engineer at WealthOS, ISTQB CTAL-TAE, 4+ years" width="100%" />
 </p>
 
-## Tech Stack
-
----
-
 <p align="center">
   <img src="./assets/tech-stack.svg" alt="Tech stack: TypeScript, Playwright, Selenium, GitHub Actions" width="100%" />
 </p>
-
-## Featured Projects
-
----
 
 <p align="center">
   <img src="./assets/featured.svg" alt="Featured projects: Quality Central, Portfolio, GENKI" width="100%" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/Ashenk97/quality-central">Quality Central</a>
-  &nbsp;|&nbsp;
-  <a href="https://github.com/Ashenk97/Portfolio">Portfolio</a>
-  &nbsp;|&nbsp;
-  <a href="https://github.com/Ashenk97/Genki_Test">GENKI</a>
-</p>
-
-## GitHub Stats
-
----
-
-<p align="center">
   <img src="./assets/stats-board.svg" alt="GitHub stats and most used languages" width="100%" />
 </p>
 
-## Contribution Snake
-
----
+<p align="center">
+  <img src="./assets/snake-title.svg" alt="Contribution Snake" width="100%" />
+</p>
 
 <p align="center">
   <picture>

@@ -28,10 +28,11 @@
   </g>
   <rect x="1" y="1" width="1098" height="358" rx="27" fill="none" stroke="#273246"/>
   <rect x="40" y="1" width="1020" height="2" fill="url(#featEdge)"/>
-  <circle cx="32" cy="35" r="5" fill="#3ee0c5">
+  <text x="32" y="42" fill="#eef3f8" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="22" font-weight="700">Featured Projects</text>
+  <circle cx="948" cy="35" r="5" fill="#3ee0c5">
     <animate attributeName="opacity" values="1;0.2;1" dur="1.4s" repeatCount="indefinite"/>
   </circle>
-  <text x="46" y="40" fill="#3ee0c5" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" font-weight="700" letter-spacing="1.6">BUILD - LIVE</text>
+  <text x="962" y="40" fill="#3ee0c5" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" font-weight="700" letter-spacing="1.6">BUILD - LIVE</text>
 
   <rect x="24" y="62" width="342" height="274" rx="18" fill="#121924" stroke="#273246"/>
   <rect x="24" y="62" width="6" height="274" rx="3" fill="#3ee0c5">
