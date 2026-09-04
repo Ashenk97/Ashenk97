@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1100 48" preserveAspectRatio="none" role="img" aria-hidden="true">
+  <path fill="none" stroke="#3ee0c5" stroke-width="2" stroke-opacity="0.55" d="M0 24 Q 137.5 6 275 24 T 550 24 T 825 24 T 1100 24">
+    <animate attributeName="d" dur="4s" repeatCount="indefinite" values="
+      M0 24 Q 137.5 6 275 24 T 550 24 T 825 24 T 1100 24;
+      M0 24 Q 137.5 42 275 24 T 550 24 T 825 24 T 1100 24;
+      M0 24 Q 137.5 6 275 24 T 550 24 T 825 24 T 1100 24"/>
+  </path>
+  <path fill="none" stroke="#3ee0c5" stroke-width="1.2" stroke-opacity="0.25" d="M0 28 Q 137.5 12 275 28 T 550 28 T 825 28 T 1100 28">
+    <animate attributeName="d" dur="5.5s" repeatCount="indefinite" values="
+      M0 28 Q 137.5 44 275 28 T 550 28 T 825 28 T 1100 28;
+      M0 28 Q 137.5 10 275 28 T 550 28 T 825 28 T 1100 28;
+      M0 28 Q 137.5 44 275 28 T 550 28 T 825 28 T 1100 28"/>
+  </path>
+</svg>

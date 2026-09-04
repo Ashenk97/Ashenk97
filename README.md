@@ -3,8 +3,17 @@
 </p>
 
 <p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=3EE0C5&center=true&vCenter=true&width=760&lines=Hunt+bugs.+Ship+confidence.;Building+Quality+Central;Playwright+%C2%B7+TypeScript+%C2%B7+ISTQB+CTAL-TAE" alt="Typing animation" />
+</p>
+
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=Ashenk97&style=flat-square&color=0f766e" alt="Profile views" />
   <img src="https://img.shields.io/github/followers/Ashenk97?style=flat-square&color=0f766e&label=Followers" alt="Followers" />
+  <img src="https://img.shields.io/badge/Now-Shipping_Quality_Central-3ee0c5?style=flat-square" alt="Shipping Quality Central" />
+</p>
+
+<p align="center">
+  <img src="./assets/wave.svg" alt="" width="100%" />
 </p>
 
 ## About Me
@@ -58,6 +67,27 @@
   <img src="https://skillicons.dev/icons?i=git,github,gitlab,postman,figma,maven" alt="Delivery and design tools" />
 </p>
 
+## Featured Projects
+
+---
+
+<p align="center">
+  <a href="https://quality-central.vercel.app">
+    <img src="./assets/quality-central-card.svg" alt="Quality Central — gamified QA learning hub" width="92%" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://quality-central.vercel.app"><img src="https://img.shields.io/badge/Live-quality--central.vercel.app-3ee0c5?style=for-the-badge" alt="Quality Central live site" /></a>
+  <a href="https://github.com/Ashenk97/quality-central"><img src="https://img.shields.io/badge/Repo-Ashenk97%2Fquality--central-0c1118?style=for-the-badge&logo=github" alt="Quality Central repository" /></a>
+</p>
+
+| Project | Description | Technologies |
+| --- | --- | --- |
+| [Quality Central](https://github.com/Ashenk97/quality-central) | Gamified QA career path — lessons, playgrounds, and a buggy sandbox. Hunt bugs. Ship confidence. | ![Next.js](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=nextdotjs&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=black) |
+| [Portfolio](https://github.com/Ashenk97/Portfolio) | Live QA portfolio. Playwright covers the site on every push. | ![Astro](https://img.shields.io/badge/Astro-BC52EE?style=flat-square&logo=astro&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white) |
+| [GENKI](https://github.com/Ashenk97/Genki_Test) | Streetwear storefront treated as a product under test. Checkout, inventory, and visuals gated before a drop. | ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) |
+
 ## GitHub Stats
 
 ---
@@ -78,12 +108,3 @@
     <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/Ashenk97/Ashenk97/output/github-snake-dark.svg" />
   </picture>
 </p>
-
-## Featured Projects
-
----
-
-| Project | Description | Technologies |
-| --- | --- | --- |
-| [Portfolio](https://github.com/Ashenk97/Portfolio) | Live QA portfolio. Playwright covers the site on every push. | ![Astro](https://img.shields.io/badge/Astro-BC52EE?style=flat-square&logo=astro&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white) |
-| [GENKI](https://github.com/Ashenk97/Genki_Test) | Streetwear storefront treated as a product under test. Checkout, inventory, and visuals gated before a drop. | ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) |
